@@ -1,4 +1,4 @@
-# fertilizer_advising_program
+fertilizer_advising_program
 easy basic program to advise the fertilizers for the people
 The Fertilizer Advisor is a Python-based desktop application built using Tkinter that provides agricultural fertilizer recommendations based on soil nutrient deficiencies. The application helps farmers and gardeners identify which primary nutrient their soil lacks and suggests appropriate fertilizers with specific NPK ratios.
 
